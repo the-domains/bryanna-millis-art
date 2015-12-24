@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T13:30:01.216Z'
-dateModified: '2015-12-24T13:29:39.690Z'
+datePublished: '2015-12-24T16:37:49.152Z'
+dateModified: '2015-12-24T14:17:35.467Z'
 title: The Revolution Begins
 author: []
+sourcePath: _posts/2015-12-24-the-revolution-begins.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-24-the-revolution-begins.md
-published: true
 url: the-revolution-begins/index.html
 _type: Article
 
