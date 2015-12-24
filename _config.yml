@@ -1,14 +1,28 @@
+name: Bryanna Millis Art
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.2021277
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#faecdb'
+    - '#48312b'
+    - '#050402'
+    - '#e4bea6'
+    - '#b07568'
+  brandStrength: 0.75
   lightness: 0.5765957
-  brandStrength: 0.8369877
   saturation: 0.6191489
   rhythmicContrast: 1
-  brandColors:
-    - '#F2E1CF'
-    - '#170D0D'
-    - '#5C4A4B'
-    - '#C7A399'
-    - '#A37765'
-name: Bryanna Millis Art
+purpose: []
