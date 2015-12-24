@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Bryanna Millis Art]]></title>
-        <description><![CDATA[Bryanna Millis Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Art, poetry, and inspiration]]></title>
+        <description><![CDATA[Art, poetry, and inspiration]]></description>
+        <link>https://thegrid.ai/bryanna-millis-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 13:30:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 14:43:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bryanna-millis-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My new and ancient city]]></title>
+            <description><![CDATA[<article><h1>My new and ancient city</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6ada94d-235e-495a-8ced-7fbfbd0f6c4a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bryanna-millis-art/my-new-and-ancient-city/index.html</link>
+            <guid isPermaLink="false">2fc16c10-188f-4b6a-9b6e-99ed78d9a740</guid>
+            <pubDate>Thu, 24 Dec 2015 14:42:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Revolution Begins]]></title>
             <description><![CDATA[<article><h1>The Revolution Begins</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2acaa821-68e4-4600-98b0-43da20416f73.jpg"></article>]]></description>
-            <link>undefinedthe-revolution-begins/index.html</link>
+            <link>https://thegrid.ai/bryanna-millis-art/the-revolution-begins/index.html</link>
             <guid isPermaLink="false">fd01060f-fd69-42a6-a63c-7aede99922af</guid>
             <pubDate>Thu, 24 Dec 2015 13:30:01 GMT</pubDate>
         </item>
