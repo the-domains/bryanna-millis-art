@@ -1,7 +1,7 @@
 name: Bryanna Millis Art
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.2021277
+typography_spectrum: 0.21548
 title: 'Art, poetry, and inspiration'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#faecdb'
-    - '#48312b'
-    - '#050402'
-    - '#e4bea6'
-    - '#b07568'
+    - '#f5ecd9'
+    - '#d5c4a7'
+    - '#040000'
+    - '#a67a6f'
+    - '#5a594b'
   brandStrength: 0.75
   lightness: 0.625
   saturation: 0.625
