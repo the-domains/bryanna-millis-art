@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T19:12:04.700Z'
-dateModified: '2015-12-25T19:11:57.173Z'
+datePublished: '2015-12-25T19:15:28.104Z'
+dateModified: '2015-12-25T19:15:15.941Z'
 title: 'Your prisons, your mountains'
 author: []
 sourcePath: _posts/2015-12-24-your-prisons-your-mountains.md
@@ -23,18 +23,16 @@ _type: Article
 
 ---
 # **Your prisons, your mountains**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/822b02ce-a224-4e79-b7cc-3ac6aa721ecf.jpg)
 
 # 
 
 I hold you in my heart, your prisons, your mountains, engraved on your face, the lines make maps of your skin.  
-Guides to the lost lands where your fathers were bornto the other half of your smile  
-to the stories that need more time to be told.
 
+Guides to the lost lands where your fathers were born  
+to the other half of your smile  
+to the stories that need more time to be told.  
 In my bones I know you,   
-your invisible villages of dotted lights, tucked into the eroding hillsides of home.  
-Remnants of your first glimpses behind closed doors,  
-of the first breaking of your bones,  
-of the places from which you stepped into the
-world.
+your invisible villages of dotted lights, tucked into the eroding hillsides of home.
 
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/822b02ce-a224-4e79-b7cc-3ac6aa721ecf.jpg)
+#
