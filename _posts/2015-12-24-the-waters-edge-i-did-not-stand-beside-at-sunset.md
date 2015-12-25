@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T16:37:49.890Z'
-dateModified: '2015-12-24T14:42:55.769Z'
+datePublished: '2015-12-25T19:12:36.784Z'
+dateModified: '2015-12-25T19:12:32.965Z'
 title: "The water's edge I did not stand beside at sunset"
 author: []
+sourcePath: _posts/2015-12-24-the-waters-edge-i-did-not-stand-beside-at-sunset.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-24-the-waters-edge-i-did-not-stand-beside-at-sunset.md
-published: true
 url: the-waters-edge-i-did-not-stand-beside-at-sunset/index.html
 _type: Article
 
 ---
 **The water's edge I did not stand beside at sunset**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaa1625d-0fa6-4b44-b0fd-5fc1448f5181.jpg)
 
 My eyes yearn  
 for the water's edge I did not   
@@ -47,4 +48,3 @@ the endless tangle of its history
 playing out across clattering stone streets.  
 For the maps that did not show me the way  
 to the memories that were never made.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaa1625d-0fa6-4b44-b0fd-5fc1448f5181.jpg)
