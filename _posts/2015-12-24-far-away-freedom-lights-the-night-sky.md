@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T16:37:49.578Z'
-dateModified: '2015-12-24T14:42:55.748Z'
+datePublished: '2015-12-25T19:19:28.439Z'
+dateModified: '2015-12-25T19:19:24.696Z'
 title: 'Far away, freedom lights the night sky'
 author: []
+sourcePath: _posts/2015-12-24-far-away-freedom-lights-the-night-sky.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-24-far-away-freedom-lights-the-night-sky.md
-published: true
 url: far-away-freedom-lights-the-night-sky/index.html
 _type: Article
 
 ---
 **Far away, freedom lights the night sky**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cf31340-9920-4883-b649-5f5f5f5ea517.jpg)
 
 This place owns my hands, my legs, my eyes.  
 The space behind my ribs  
@@ -47,4 +48,3 @@ reveal the ignorance of nature.
 It blooms and shines,  
 waving in the wind,  
 even as the world caves slowly in.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cf31340-9920-4883-b649-5f5f5f5ea517.jpg)
