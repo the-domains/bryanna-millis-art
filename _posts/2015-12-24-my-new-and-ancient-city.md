@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T16:37:49.203Z'
-dateModified: '2015-12-24T14:42:55.758Z'
+datePublished: '2015-12-25T19:20:42.572Z'
+dateModified: '2015-12-25T19:20:39.301Z'
 title: My new and ancient city
 author: []
+sourcePath: _posts/2015-12-24-my-new-and-ancient-city.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-24-my-new-and-ancient-city.md
-published: true
 url: my-new-and-ancient-city/index.html
 _type: Article
 
 ---
 **My new and ancient city**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6ada94d-235e-495a-8ced-7fbfbd0f6c4a.jpg)
 
 My new and ancient city  
 of stacked secrets.  
@@ -36,4 +37,3 @@ Welcoming, welcoming
 _you are welcome_.  
 Whatever you offer me,  
 I have made.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6ada94d-235e-495a-8ced-7fbfbd0f6c4a.jpg)
